@@ -22,7 +22,7 @@ class App extends Component {
               <p>Solving Community Problems. Using Design Thinking Processes to achive our Goals. <em>Every Project is Special.</em></p>
               <p>The main Philosophy behind Origin2020 is based on core problem solving.</p>
               <p className="lead">
-                  <Button color="primary">Connect</Button>
+                  {/* <Button color="primary">Connect</Button> */}
               </p>
           </Jumbotron>
           <br />
