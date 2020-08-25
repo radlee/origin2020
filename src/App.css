@@ -6,6 +6,10 @@ html {
   scroll-behavior: smooth;
 }
 
+.hhf {
+  color: yellow;
+}
+
 .navigation {
   color: white !important;
 }
