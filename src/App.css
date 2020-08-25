@@ -33,8 +33,13 @@
     background-color: #e41616a6 !important;
 }
 
+.media-heading {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
 .emphasis {
   color:#e41616 !important;
+  font-family: fantasy;
 }
 
 .navbar > .bg-dark {
@@ -125,8 +130,8 @@ a {
   background-repeat: no-repeat;
   color: white;
   background-position: center;
-  border-bottom: 8px solid #f7e300;
-  border-top: 8px solid #0077a2;
+  border-bottom: 8px solid rgb(29, 29, 29);
+  border-top: 8px solid rgb(29, 29, 29);
   border-radius: 0px !important;
 }
 .notice-sponsor {
@@ -136,8 +141,8 @@ a {
   background-repeat: no-repeat;
   color: white;
   background-position: center;
-  border-bottom: 8px solid #4200f79f;
-  border-top: 8px solid #a20d00;
+  border-bottom: 8px solid rgb(29, 29, 29);
+  border-top: 8px solid rgb(29, 29, 29);
   border-radius: 0px !important;
 }
 .notice-inno {
@@ -147,8 +152,8 @@ a {
   background-repeat: no-repeat;
   color: white;
   background-position: center;
-  border-bottom: 8px solid #f7e300;
-  border-top: 8px solid #0077a2;
+  border-bottom: 8px solid rgb(29, 29, 29);
+  border-top: 8px solid rgb(29, 29, 29);
   border-radius: 0px !important;
 }
 .notice-two {
@@ -158,8 +163,8 @@ a {
   background-repeat: no-repeat;
   color: white;
   background-position: center;
-  border-bottom: 8px solid #f7e300;
-  border-top: 8px solid #0077a2;
+  border-bottom: 8px solid rgb(29, 29, 29);
+  border-top: 8px solid rgb(29, 29, 29);
   border-radius: 0px !important;
 }
 body {
@@ -177,7 +182,7 @@ body {
 }
 
 .Media {
-  border-bottom: 2px solid #0076a3;
+  border-bottom: 2px solid rgb(29, 29, 29);
 }
 
 .footer-text {
@@ -198,8 +203,17 @@ h1 {
   width: 200px;
 }
 
+.para {
+  font-family: sans-serif;
+}
+
+.para2 {
+  font-family: monospace;
+}
+
 .lead {
   color: #f9fbfc;
+  font-family: impact;
   font-variant-caps: all-petite-caps;
 }
 .team {
@@ -213,13 +227,18 @@ h1 {
 
 .card-header {
   color: white;
+  font-weight: bold;
+  font-family: impact;
   background-color: rgb(208 0 39 / 98%) !important;
   border-bottom: 6px solid rgb(0 0 0 / 98%) !important;
 }
 
+
+
 .card-footer {
   color: white;
   font-weight: bold;
+  font-family: impact;
   background-color: rgb(208 0 39 / 98%) !important;
   border-top: 6px solid rgb(0 0 0 / 98%) !important;
 }
