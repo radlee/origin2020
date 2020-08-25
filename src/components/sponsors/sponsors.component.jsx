@@ -24,7 +24,7 @@ const Sponsors = (props) => {
                                         Basic Start-Up Site
                                     </CardText>
                                 </CardBody>
-                                <CardFooter> Example: <a target="__blank" href="https://www.radlee.github.io/happyhour"> Happy Hour Foundation Website</a></CardFooter>
+                                <CardFooter> Example: <a target="__blank" href="https://radlee.github.io/happyhour/"> Happy Hour Foundation Website</a></CardFooter>
                             </Card>
                         </div>
                     </Col>
