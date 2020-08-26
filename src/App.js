@@ -15,7 +15,7 @@ class App extends Component {
     return (
         <div className="App">
           <Navigation />
-          <Jumbotron className="jumbotron">
+          <Jumbotron id="about" className="jumbotron">
               <h1 className="display-3">OR<span className="ig">IG</span>IN<span className="ig">2020</span></h1>
               <p className="lead">COLLABORATION | COMMUNITY | INNOVATION | STYLED | CULTURED | SOPHISTICATED </p>
               <hr className="my-2" />

@@ -7,7 +7,7 @@ import coding from '../../media/coding.jpg';
 
 const TeamList = (props) => {
     return (
-        <div className="container">
+        <div id="services" className="container">
             <br />
             <h1 className="h1">Services</h1>
             <hr className="heading-horizon" />

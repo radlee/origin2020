@@ -7,7 +7,7 @@ import hh from '../../media/happy-hour.png'
 
 const Sponsors = (props) => {
     return (
-        <div className="container">
+        <div id="orgs" className="container">
             <br />
             <h1 className="h1">Organizations</h1>
             <hr className="heading-horizon" />

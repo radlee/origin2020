@@ -5,7 +5,7 @@ export default class Notice extends Component {
    render () {
     return (
 
-        <Container>
+        <Container id="objectives">
             <h1 className="h1">The Objectives</h1>
             <hr className="heading-horizon" />
             <br />
