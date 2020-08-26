@@ -36,8 +36,11 @@ const Navigation = (props) => {
                             <NavItem>
                                 <NavLink href="#orgs">Organizations</NavLink>
                             </NavItem>
+                            <NavItem>
+                                <NavLink href="#contact">Contact</NavLink>
+                            </NavItem>
                         </Nav>
-                        <NavbarText>Get In Touch</NavbarText>
+                        <NavbarText>ORIGIN2020 WEB-APPLICATIONS</NavbarText>
                     </Collapse>
                 </Navbar>     
             </div>

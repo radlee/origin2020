@@ -6,7 +6,7 @@ export default class Notice extends Component {
     return (
 
         <Container id="objectives">
-            <h1 className="h1">The Objectives</h1>
+            <h1 className="h1">The Philosophy</h1>
             <hr className="heading-horizon" />
             <br />
             <br />
@@ -14,11 +14,11 @@ export default class Notice extends Component {
                 <Col sm="6">
                     <div>
                         <Card className="notice-one">
-                            <CardHeader> REACT Web and Mobile Applications </CardHeader>
+                            <CardHeader> React and NodeJs </CardHeader>
                             <CardBody>
-                                <CardTitle>FOCUSED AND ORGANIZED DEVELOPMENT</CardTitle>
+                                <CardTitle className="card-title">Agile Web Development</CardTitle>
                                 <CardText>
-                                    People-Centric-Concepts. That's our Philosophy.
+                                    Planning. Prototyping. Creating. Testing. Repeat.
                                 </CardText>
                                 <CardText>
                                     <em className="emphasis">"Solving people's problems with Technology"</em>
@@ -34,7 +34,10 @@ export default class Notice extends Component {
                         <Card className="notice-two">
                             <CardHeader> Collaboration </CardHeader>
                             <CardBody>
-                                <CardTitle>THE OBJECTIVE: Joining workforce with innovative creators to solve problems. By Creators For Creators</CardTitle>
+                                <CardTitle className="card-title">By joining workforce with innovative creators we solve problems. By Creators For Everyone</CardTitle>
+                                <CardText>
+                                    Everyone with interest to change the community for the good is welcome.
+                                </CardText>
                                 <CardText>
                                     <em className="emphasis">"Build a Revolution. Build a Legacy. Build a Life Style."</em>
                                 </CardText>

@@ -47,7 +47,7 @@ class ContactForm extends Component {
     render() {
         return(
             <div>
-                <Container>
+                <Container id="contact">
                     <h1 className="h1">Get in Touch</h1>
                     <hr className="heading-horizon" />
                     <h3 className="insta"> Instagram Handle: @proriginallee</h3>

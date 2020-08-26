@@ -6,6 +6,10 @@ html {
   scroll-behavior: smooth;
 }
 
+.card-title {
+  font-family: Code Bold !important;
+}
+
 .hhf {
   color: yellow;
 }
