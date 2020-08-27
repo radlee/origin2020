@@ -20,7 +20,7 @@ export default class Footer extends Component {
 
                                 <div className="twelve columns">        
                                     <div class="widget">
-                                        <h1 className="footer-text">ORIGIN2020</h1>
+                                        <h1 className="footer-text">OR<span className="ig">IG</span>IN<span className="ig">2020</span></h1>
                                     </div>
                                 </div>
 

@@ -14,17 +14,20 @@ export default class Notice extends Component {
                 <Col sm="6">
                     <div>
                         <Card className="notice-one">
-                            <CardHeader> React and NodeJs </CardHeader>
+                            <CardHeader> Vission + Mission </CardHeader>
                             <CardBody>
-                                <CardTitle className="card-title">Agile Web Development</CardTitle>
-                                <CardText>
+                                <CardTitle className="card-title">Agile Web Development and Internet-Of-Things</CardTitle>
+                                <CardText className="card-text">
                                     Planning. Prototyping. Creating. Testing. Repeat.
                                 </CardText>
+                                <CardText className="card-text">
+                                    Open and broaden the possibilities of interacting with Things over the Internet.
+                                </CardText>
                                 <CardText>
-                                    <em className="emphasis">"Solving people's problems with Technology"</em>
+                                    <em className="emphasis">"Affirmative with solving real life problems with Technology"</em>
                                 </CardText>
                             </CardBody>
-                            <CardFooter>Proffessional. Business. Educational.</CardFooter>
+                            <CardFooter>Industrial. Proffessional. Business. Educational.</CardFooter>
                         </Card>
                     </div>
                 </Col>
@@ -35,10 +38,10 @@ export default class Notice extends Component {
                             <CardHeader> Collaboration </CardHeader>
                             <CardBody>
                                 <CardTitle className="card-title">By joining workforce with innovative creators we solve problems. By Creators For Everyone</CardTitle>
-                                <CardText>
+                                <CardText className="card-text">
                                     Everyone with interest to change the community for the good is welcome.
                                 </CardText>
-                                <CardText>
+                                <CardText className="card-text">
                                     <em className="emphasis">"Build a Revolution. Build a Legacy. Build a Life Style."</em>
                                 </CardText>
                             </CardBody>
