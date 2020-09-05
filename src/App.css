@@ -255,7 +255,11 @@ h1 {
   background-color: rgb(208 0 39 / 98%) !important;
   border-bottom: 6px solid rgb(0 0 0 / 98%) !important;
 }
-
+.alert-success {
+  color: #e6eee8 !important;
+  background-color: #cb080887 !important;
+  border-color: #c3e6cb !important;
+}
 
 
 .card-footer {
@@ -264,6 +268,38 @@ h1 {
   font-family: impact;
   background-color: rgb(208 0 39 / 98%) !important;
   border-top: 6px solid rgb(0 0 0 / 98%) !important;
+}
+
+.green {
+  background-color: #38e90cce;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+.orange {
+  background-color: #e5e90cc4;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+.blue {
+  background-color: #0c35e9c4;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+.black {
+  background-color: #030303c4;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+
+
+.style {
+  background-color: #e90c0cc4;
+  padding-right: 5px;
+  padding-left: 5px;
 }
 
 .App-logo {

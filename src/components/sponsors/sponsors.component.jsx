@@ -17,14 +17,19 @@ const Sponsors = (props) => {
                     <Col sm="6">
                         <div>
                             <Card className="notice-sponsor">
-                                <CardHeader> Organizations Websites </CardHeader>
+                                <CardHeader> Organizations and Business Websites </CardHeader>
                                 <CardBody>
-                                    <CardTitle>For Organizations in Action. </CardTitle>
+                                    <CardTitle>Constantly refining Technological skills to build Enterprise Web Applications </CardTitle>
+                                   
                                     <CardText>
-                                        Basic Start-Up Site
+                                        Check out the link below for example of Organisation website you can get out of ORIGIN2020 Development
                                     </CardText>
                                 </CardBody>
                                 <CardFooter> Example: <a target="__blank" href="https://radlee.github.io/happyhour/"> <span className="hhf" >Happy Hour Foundation Website</span></a></CardFooter>
+                                <CardText>
+                                        Check out Aselmo-Mafanga-Photography website below for more content.
+                                </CardText>
+                                <CardFooter> Example: <a target="__blank" href="https://radlee.github.io/amphotography/"> <span className="hhf" >AM-Photography Website</span></a></CardFooter>
                             </Card>
                         </div>
                     </Col>
@@ -39,8 +44,8 @@ const Sponsors = (props) => {
                                         <Media className="media-heading" heading>
                                             Happy Hour Foundation
                                         </Media>
-                                        <h5>Community Organization</h5>
-                                        Soup Kitchen Scheme
+                                        <h5>Supporting underprivileged communities</h5>
+                                        <em>It is a Home of kindness in our lifetime</em>
                                     </Media>
                                 </Media>
                             </ListGroupItem>

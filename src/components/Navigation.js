@@ -28,10 +28,10 @@ const Navigation = (props) => {
                                 <NavLink href="#about">About</NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink href="#objectives">Objectives</NavLink>
+                                <NavLink href="#objectives">Driving Force / <em>Desire Production</em></NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink href="#services">Services</NavLink>
+                                <NavLink href="#services">Extra Projects</NavLink>
                             </NavItem>
                             <NavItem>
                                 <NavLink href="#orgs">Organizations</NavLink>
