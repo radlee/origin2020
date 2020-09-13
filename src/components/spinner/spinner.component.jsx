@@ -7,6 +7,9 @@ export default class Spinner extends Component {
        return (
 
          <Jumbotron id="about" className="jumbotron">
+           <div data-aos="fade-up" data-aos-duration="4000">
+
+          
              <Container>
                 
                 <Row>
@@ -20,6 +23,7 @@ export default class Spinner extends Component {
                 </Row>
             
             </Container>
+            </div>
           </Jumbotron>
                 
        )

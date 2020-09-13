@@ -12,7 +12,7 @@ export default class Notice extends Component {
             <br />
             <Row>
                 <Col sm="6">
-                    <div>
+                    <div data-aos="fade-up" data-aos-duration="4000">
                         <Card className="notice-one">
                             <CardHeader> Vission + Mission </CardHeader>
                             <CardBody>
@@ -33,7 +33,7 @@ export default class Notice extends Component {
                 </Col>
 
                 <Col sm="6">
-                    <div>
+                    <div data-aos="fade-up" data-aos-duration="4000">
                         <Card className="notice-two">
                             <CardHeader> Collaboration </CardHeader>
                             <CardBody>

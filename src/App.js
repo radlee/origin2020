@@ -8,7 +8,7 @@ import Sponsors from './components/sponsors/sponsors.component';
 import ContactForm from './components/contact-us/contact.component';
 import './App.css';
 import Navigation from "./components/Navigation"
-import { Jumbotron } from 'reactstrap';
+import { Jumbotron, Button, Container, Row, Col } from 'reactstrap';
 
 class App extends Component {
   render() {
@@ -21,9 +21,22 @@ class App extends Component {
               <hr className="my-2" />
               <p className="para2">Solving Problems. Using Design Thinking Processes to achive our Goals. <em>Every Project is Special.</em></p>
               <p className="para">The prime matter of fact is <em>Rad User Interaction </em>. The second, <em>Delivery of Great User Experience,</em> and what we do best, <em>Origin8</em>.</p>
-              <p className="lead">
-                  {/* <Button color="primary">Connect</Button> */}
-              </p>
+              <br />
+              <hr className="my-2" />
+              <Container>
+              <Row>
+                <Col sm="4"></Col>
+                  <Col xs="12" sm="4">
+
+                  <p className="lead">
+                    <Button outline size="lg" color="danger" href="#objectives" block>Let's Go</Button>
+                  </p>
+
+                  </Col>
+                <Col sm="4"></Col>
+                </Row>
+              </Container>
+             
           </Jumbotron>
           <br />
           <Notice />

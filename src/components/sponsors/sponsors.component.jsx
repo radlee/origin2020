@@ -15,7 +15,7 @@ const Sponsors = (props) => {
             <Container>
                 <Row>
                     <Col sm="6">
-                        <div>
+                        <div data-aos="fade-up" data-aos-duration="4000">
                             <Card className="notice-sponsor">
                                 <CardHeader> Organizations and Business Websites </CardHeader>
                                 <CardBody>
@@ -34,6 +34,7 @@ const Sponsors = (props) => {
                         </div>
                     </Col>
                     <Col sm="6">
+                    <div data-aos="fade-up" data-aos-duration="4000">
                         <ListGroup className="team" flush>
                             <ListGroupItem className="list-g">
                                 <Media>
@@ -64,6 +65,7 @@ const Sponsors = (props) => {
                                 </Media>
                             </ListGroupItem>
                         </ListGroup>
+                        </div>
                     </Col>
                 </Row>
             </Container>

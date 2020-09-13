@@ -38,7 +38,7 @@ class ContactForm extends Component {
 
     render() {
         return(
-            <div>
+            <div data-aos="fade-up" data-aos-duration="4000">
                 <Container id="contact">
                     <h1 className="h1">Get in Touch</h1>
                     <hr className="heading-horizon" />
