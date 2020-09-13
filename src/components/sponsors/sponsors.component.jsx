@@ -29,7 +29,7 @@ const Sponsors = (props) => {
                                 <CardText>
                                         Check out Aselmo-Mafanga-Photography website below for more content.
                                 </CardText>
-                                <CardFooter> Example: <a target="__blank" href="https://radlee.github.io/amphotography/"> <span className="hhf" >AM-Photography Website</span></a></CardFooter>
+                                <CardFooter> Example: <a target="__blank" href="https://radlee.github.io/amp/"> <span className="hhf" >AM-Photography Website</span></a></CardFooter>
                             </Card>
                         </div>
                     </Col>
