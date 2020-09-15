@@ -113,8 +113,12 @@ Form {
   outline: 0;
 }
 
+.a {
+  color: #fff !important;
+}
+
 a {
-  color: white !important;
+  color: rgb(221, 11, 11) !important;
 }
 
 .insta {

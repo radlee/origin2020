@@ -29,7 +29,7 @@ class App extends Component {
                   <Col xs="12" sm="4">
 
                   <p className="lead">
-                    <Button outline size="lg" color="danger" href="#objectives" block>Let's Go</Button>
+                    <Button outline size="lg" color="danger" href="#objectives" className="a" block>Let's Go</Button>
                   </p>
 
                   </Col>

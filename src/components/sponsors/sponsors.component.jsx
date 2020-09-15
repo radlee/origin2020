@@ -34,22 +34,25 @@ const Sponsors = (props) => {
                         </div>
                     </Col>
                     <Col sm="6">
-                    <div data-aos="fade-up" data-aos-duration="4000">
+                    
                         <ListGroup className="team" flush>
-                            <ListGroupItem className="list-g">
-                                <Media>
-                                    <Media className="profile-pic" left>
-                                        <Media className="Media" object src={hh} height="124px" alt="Sponsor Photo" />
-                                    </Media>
-                                    <Media body>
-                                        <Media className="media-heading" heading>
-                                            Happy Hour Foundation
+                            <div data-aos="fade-up" data-aos-duration="4000">
+                                <ListGroupItem className="list-g">
+                                    <Media>
+                                        <Media className="profile-pic" left>
+                                            <Media className="Media" object src={hh} height="124px" alt="Sponsor Photo" />
                                         </Media>
-                                        <h5>Supporting underprivileged communities</h5>
-                                        <em>It is a Home of kindness in our lifetime</em>
+                                        <Media body>
+                                            <Media className="media-heading" heading>
+                                                Happy Hour Foundation
+                                            </Media>
+                                            <h5>Supporting underprivileged communities</h5>
+                                            <em>It is a Home of kindness in our lifetime</em>
+                                        </Media>
                                     </Media>
-                                </Media>
-                            </ListGroupItem>
+                                </ListGroupItem>
+                            </div>
+                            <div data-aos="fade-up" data-aos-duration="4000">
                             <ListGroupItem className="list-g">
                                 <Media>
                                     <Media className="profile-pic" left>
@@ -64,8 +67,9 @@ const Sponsors = (props) => {
                                     </Media>
                                 </Media>
                             </ListGroupItem>
+                            </div>
                         </ListGroup>
-                        </div>
+                        
                     </Col>
                 </Row>
             </Container>

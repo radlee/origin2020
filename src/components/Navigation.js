@@ -25,19 +25,19 @@ const Navigation = (props) => {
                     <Collapse isOpen={isOpen} navbar>
                         <Nav className="mr-auto" navbar>
                         <NavItem>
-                                <NavLink href="#about">About</NavLink>
+                                <NavLink className="a" href="#about">About</NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink href="#objectives">Objectives</NavLink>
+                                <NavLink className="a" href="#objectives">Objectives</NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink href="#services">Services</NavLink>
+                                <NavLink className="a" href="#services">Services</NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink href="#orgs">Organizations</NavLink>
+                                <NavLink className="a" href="#orgs">Organizations</NavLink>
                             </NavItem>
                             <NavItem>
-                                <NavLink href="#contact">Contact</NavLink>
+                                <NavLink className="a" href="#contact">Contact</NavLink>
                             </NavItem>
                         </Nav>
                         <NavbarText>ORIGIN2020 WEB-APPLICATIONS</NavbarText>

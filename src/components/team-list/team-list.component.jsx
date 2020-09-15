@@ -18,7 +18,7 @@ const TeamList = (props) => {
                     <Container>
                         <Row>
                             <Col sm="6">
-                                <div data-aos="fade-right" data-aos-duration="4000">
+                                <div data-aos="fade-up" data-aos-duration="4000">
                                     <Media>
                                         <Media className="profile-pic" left>
                                                 <Media className="Media" object src={coding} height="250px" alt="web dev" />
@@ -27,7 +27,7 @@ const TeamList = (props) => {
                                 </div> 
                             </Col>
                             <Col sm="6">
-                                <div data-aos="fade-left" className="text-box">
+                                <div data-aos="fade-up" className="text-box">
                                     <Media body>
                                         <Media className="media-heading" heading>
                                             Web Development and Mentoring
@@ -46,16 +46,16 @@ const TeamList = (props) => {
                     <Container>
                         <Row>
                             <Col sm="6">
-                                <div data-aos="fade-right" data-aos-duration="4000">
+                                <div data-aos="fade-up" data-aos-duration="4000">
                                     <Media>
-                                        <Media className="profile-pic" left>
+                                        <Media className="profile-pic" right>
                                             <Media className="Media" object src={mp} height="250px" alt="photography" />
                                         </Media>
                                     </Media>
                                 </div> 
                             </Col>
                             <Col sm="6">
-                                <div data-aos="fade-left" className="text-box">
+                                <div data-aos="fade-up" className="text-box">
                                     <Media body>
                                         <Media className="media-heading" heading>
                                             Aselmo Mafanga Photography
@@ -74,7 +74,7 @@ const TeamList = (props) => {
                     <Container>
                         <Row>
                             <Col sm="6">
-                                <div data-aos="fade-right" data-aos-duration="4000">
+                                <div data-aos="fade-up" data-aos-duration="4000">
                                     <Media>
                                         <Media className="profile-pic" left>
                                             <Media className="Media" object src={origin} height="250px" alt="mobile solutions" />
@@ -83,13 +83,14 @@ const TeamList = (props) => {
                                 </div> 
                             </Col>
                             <Col sm="6">
-                                <div data-aos="fade-left" className="text-box">
+                                <div data-aos="fade-up" className="text-box">
                                     <Media body>
                                         <Media className="media-heading" heading>
-                                            Mobile Apps Solving Problems
+                                            Responsive Design | W.O.T | I.O.T | Design Thinking
                                         </Media>
                                         <h5><em>"The Idea of using the Internet with Things is Fascinating."</em></h5>
                                         Android Based Applications. Transform the way we use Smartphones.
+                                        <p>The best way to encapsulate ORIGIN2020's interests is <a href="#https://radlee.github.io/wot/">Tech & Innovation</a>.</p>
                                     </Media>
                                 </div>
                             </Col>
@@ -104,11 +105,17 @@ const TeamList = (props) => {
                 <Alert color="success">
                     <h4 className="alert-heading">The Origins</h4>
                     <p>
-                    The main purpose behind <em>this</em> name <strong>ORIGIN2020</strong> is not only because of its original relevant name design. But it's existence was founded from the driving force or desire production, that it must be a platform, a community, or an ideal node / point-of-interest for creators, creating for everyone. However wide possible it can get.
+                    The main purpose behind <em>this</em> name <strong>ORIGIN2020</strong> is not only because of its relevant original name design. But it's existence was founded from the driving force or desire production, that it must be a platform, where innovative creators collaborate.
                     </p>
                     <hr />
                     <p className="mb-0">
-                    Whenever you need to, be sure to contact us with regards to building revolutionary solutions.
+                    There are already a couple of projects under development and some are just ideas that need Social and Financial Capital. E-Commerce sites, School Management Systems and more..
+                    </p>
+                    <p className="mb-0">
+                    |
+                    </p>
+                    <p className="mb-0">
+                    ORIGIN2020 is the initiative that is constantly developing.
                     </p>
                 </Alert>
             </div>
