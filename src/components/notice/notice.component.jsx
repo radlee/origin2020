@@ -24,7 +24,7 @@ export default class Notice extends Component {
                                     Using the latest technology tools to build next generation web-applications. 
                                 </CardText>
                                 <CardText>
-                                    <em className="emphasis">"Affirmative with solving real life problems with Technology"</em>
+                                    <em className="emphasis">"Driven by the need to solving real life problems with Technology"</em>
                                 </CardText>
                             </CardBody>
                             <CardFooter>Industrial. Proffessional. Business. Educational.</CardFooter>
