@@ -6,7 +6,7 @@ export default class Notice extends Component {
     return (
 
         <Container id="objectives">
-            <h1 className="h1">Desire Production</h1>
+            <h1 className="h1">About </h1>
             <hr className="heading-horizon" />
             <br />
             <br />
@@ -16,12 +16,12 @@ export default class Notice extends Component {
                         <Card className="notice-one">
                             <CardHeader> Vission + Mission </CardHeader>
                             <CardBody>
-                                <CardTitle className="card-title">Agile Web Development and Internet-Of-Things</CardTitle>
+                                <CardTitle className="card-title">Agile Web Development</CardTitle>
                                 <CardText className="card-text">
                                     Planning. Prototyping. Creating. Testing. Repeat.
                                 </CardText>
                                 <CardText className="card-text">
-                                    Open and broaden the possibilities of interacting with Things over the Internet.
+                                    Using the latest technology tools to build next generation web-applications. 
                                 </CardText>
                                 <CardText>
                                     <em className="emphasis">"Affirmative with solving real life problems with Technology"</em>

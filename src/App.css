@@ -13,7 +13,7 @@ html {
 }
 
 .card-title {
-  font-family: Arial, Helvetica, sans-serif !important;
+  font-family: 'Anton', sans-serif;
   font-weight: bold;
 }
 
@@ -57,12 +57,16 @@ html {
 }
 
 .media-heading {
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: 'Anton', sans-serif;
+}
+
+.paragraph {
+  font-family: 'Lato', sans-serif;
 }
 
 .emphasis {
   color:#e41616 !important;
-  font-family: fantasy;
+  font-family: 'Lobster', cursive;
 }
 
 .navbar > .bg-dark {
@@ -214,7 +218,7 @@ body {
 
 .footer-text {
   color: white;
-  font-family: Arial Black;
+  font-family: 'Anton', sans-serif;
   font-size: 28px;
 }
 
@@ -240,7 +244,7 @@ h1 {
 
 .lead {
   color: #f9fbfc;
-  font-family: impact;
+  font-family: 'Anton', sans-serif;
   font-variant-caps: all-petite-caps;
 }
 .team {
@@ -269,7 +273,7 @@ h1 {
 .card-footer {
   color: white;
   font-weight: bold;
-  font-family: impact;
+  font-family: 'Anton', sans-serif;
   background-color: rgb(208 0 39 / 98%) !important;
   border-top: 6px solid rgb(0 0 0 / 98%) !important;
 }

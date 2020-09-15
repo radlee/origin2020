@@ -104,17 +104,14 @@ const TeamList = (props) => {
             <div data-aos="fade-up" data-aos-duration="4000">
                 <Alert color="success">
                     <h4 className="alert-heading">The Origins</h4>
-                    <p>
-                    The main purpose behind <em>this</em> name <strong>ORIGIN2020</strong> is not only because of its relevant original name design. But it's existence was founded from the driving force or desire production, that it must be a platform, where innovative creators collaborate.
+                    <p className="paragraph">
+                    The main purpose behind <em>this</em> name <strong>ORIGIN2020</strong> is not only because of its relevant original name design. It is a project aimed for Freelance Web Design and Development based in Delft South, Cape Town. 
                     </p>
                     <hr />
-                    <p className="mb-0">
-                    There are already a couple of projects under development and some are just ideas that need Social and Financial Capital. E-Commerce sites, School Management Systems and more..
+                    <p className="paragraph">
+                    I am Mafanga Lolito. I'm an Agile Full-Stack React Developer. 
                     </p>
-                    <p className="mb-0">
-                    |
-                    </p>
-                    <p className="mb-0">
+                    <p className="paragraph">
                     ORIGIN2020 is the initiative that is constantly developing.
                     </p>
                 </Alert>
