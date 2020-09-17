@@ -20,7 +20,7 @@ const Navigation = (props) => {
             <div className="">
 
                 <Navbar className="navigation" dark extended="md">
-                    <NavbarBrand href="/">ORIGIN2020</NavbarBrand>
+                    <NavbarBrand href="/" className="a">ORIGIN2020</NavbarBrand>
                     <NavbarToggler onClick={toggle} />
                     <Collapse isOpen={isOpen} navbar>
                         <Nav className="mr-auto" navbar>

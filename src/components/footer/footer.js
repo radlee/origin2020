@@ -16,8 +16,6 @@ export default class Footer extends Component {
                             <Col sm="4"></Col>
                             <Col sm="4">
 
-                                <hr />
-
                                 <div className="twelve columns">        
                                     <div class="widget">
                                         <hr className="my-2" />
