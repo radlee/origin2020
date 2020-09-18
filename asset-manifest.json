@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/origin2020/static/css/main.b0676438.chunk.css",
-    "main.js": "/origin2020/static/js/main.8b7f9f36.chunk.js",
-    "main.js.map": "/origin2020/static/js/main.8b7f9f36.chunk.js.map",
+    "main.css": "/origin2020/static/css/main.af9659f8.chunk.css",
+    "main.js": "/origin2020/static/js/main.20918a88.chunk.js",
+    "main.js.map": "/origin2020/static/js/main.20918a88.chunk.js.map",
     "runtime-main.js": "/origin2020/static/js/runtime-main.44962f22.js",
     "runtime-main.js.map": "/origin2020/static/js/runtime-main.44962f22.js.map",
     "static/css/2.af3c1da9.chunk.css": "/origin2020/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.f214d7f0.chunk.js": "/origin2020/static/js/2.f214d7f0.chunk.js",
-    "static/js/2.f214d7f0.chunk.js.map": "/origin2020/static/js/2.f214d7f0.chunk.js.map",
+    "static/js/2.a58a7398.chunk.js": "/origin2020/static/js/2.a58a7398.chunk.js",
+    "static/js/2.a58a7398.chunk.js.map": "/origin2020/static/js/2.a58a7398.chunk.js.map",
     "index.html": "/origin2020/index.html",
-    "precache-manifest.1d6a5102d3374a3bdb3764085b9b08ce.js": "/origin2020/precache-manifest.1d6a5102d3374a3bdb3764085b9b08ce.js",
+    "precache-manifest.e5fe8b83b31db83ab3333a88a0591c08.js": "/origin2020/precache-manifest.e5fe8b83b31db83ab3333a88a0591c08.js",
     "service-worker.js": "/origin2020/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/origin2020/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.b0676438.chunk.css.map": "/origin2020/static/css/main.b0676438.chunk.css.map",
-    "static/js/2.f214d7f0.chunk.js.LICENSE.txt": "/origin2020/static/js/2.f214d7f0.chunk.js.LICENSE.txt",
+    "static/css/main.af9659f8.chunk.css.map": "/origin2020/static/css/main.af9659f8.chunk.css.map",
+    "static/js/2.a58a7398.chunk.js.LICENSE.txt": "/origin2020/static/js/2.a58a7398.chunk.js.LICENSE.txt",
     "static/media/App.css": "/origin2020/static/media/inno.fc0a33a2.jpg",
     "static/media/circles.png": "/origin2020/static/media/circles.7eac8c20.png",
     "static/media/coding.jpg": "/origin2020/static/media/coding.2efb6a6d.jpg",
+    "static/media/covid.jpg": "/origin2020/static/media/covid.d631ce29.jpg",
     "static/media/happy-hour.png": "/origin2020/static/media/happy-hour.4c253aa3.png",
     "static/media/mp.jpg": "/origin2020/static/media/mp.9864abd0.jpg",
     "static/media/origin.jpg": "/origin2020/static/media/origin.90d6a5cd.jpg",
@@ -25,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.44962f22.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.f214d7f0.chunk.js",
-    "static/css/main.b0676438.chunk.css",
-    "static/js/main.8b7f9f36.chunk.js"
+    "static/js/2.a58a7398.chunk.js",
+    "static/css/main.af9659f8.chunk.css",
+    "static/js/main.20918a88.chunk.js"
   ]
 }
