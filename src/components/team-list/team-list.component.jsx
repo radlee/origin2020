@@ -33,7 +33,7 @@ const TeamList = (props) => {
                                         <Media className="media-heading" heading>
                                             COVID-19 Historical Statistics for South Africa
                                         </Media>
-                                        <h5><em>"My first React Developed Webb-App that uses external API and went to production :)"</em></h5>
+                                        <h5><em>"React Developed Website/almost-web-app that uses external API and hosted on Github Pages for free."</em></h5>
                                         At the time of developing this site/web-app (Lockdown - Level 1, 17-Sep-20), COVID-19 is still a serious pandemic. Therefore it is important to adhere to the new rules and regulations as per the government.
                                         <p>The web-app is still useful more especially for Historical and Educational purpuses. It can be found at <a target="__blank" href="https://radlee.github.io/covidsa/">https://radlee.github.io/covidsa/</a>.</p>
                                     </Media>
