@@ -33,7 +33,7 @@ class App extends Component {
               <p className="para">The prime matter of fact is <em>Rad User Interaction </em>. The second, <em>Delivery of Great User Experience,</em> and what we do best, <em>Origin8</em>.</p>
               <br />
               <hr className="my-2" />
-              <p className="lead-two"><span className="tags">COLLABORATION</span> | <span className="tags">COMMUNITY</span> | <span className="tags">INNOVATION</span> | <span class="style">STYLED</span>  | <span class="style">CULTURED</span> | <span class="style">SOPHISTICATED</span> </p>
+              <p className="lead-two"><span className="tags">COLLABORATION</span> | <span className="style">COMMUNITY</span> | <span className="tags">INNOVATION</span> | <span class="style">STYLED</span>  | <span class="tags">CULTURED</span> | <span class="style">SOPHISTICATED</span> </p>
               <Container>
               <Row>
                 <Col sm="4"></Col>

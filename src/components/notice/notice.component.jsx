@@ -14,7 +14,7 @@ export default class Notice extends Component {
                 <Col sm="6">
                     <div data-aos="fade-up" data-aos-duration="4000">
                         <Card className="notice-one">
-                            <CardHeader> Vission + Mission </CardHeader>
+                            <CardHeader> <span className="visandmis">Workflow</span> </CardHeader>
                             <CardBody>
                                 <CardTitle className="card-title">Agile Web Development</CardTitle>
                                 <CardText className="card-text">
@@ -35,7 +35,7 @@ export default class Notice extends Component {
                 <Col sm="6">
                     <div data-aos="fade-up" data-aos-duration="4000">
                         <Card className="notice-two">
-                            <CardHeader> Collaboration </CardHeader>
+                            <CardHeader> <span className="visandmis">Collaboration</span> </CardHeader>
                             <CardBody>
                                 <CardTitle className="card-title">By joining workforce with innovative creators we solve problems. By Creators For Everyone</CardTitle>
                                 <CardText className="card-text">

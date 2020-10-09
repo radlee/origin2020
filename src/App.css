@@ -271,8 +271,8 @@ h1 {
   color: white;
   font-weight: bold;
   font-family: impact;
+  border-radius: 15px !important;
   background-color: rgb(208 0 39 / 98%) !important;
-  border-bottom: 6px solid rgb(0 0 0 / 98%) !important;
 }
 .alert-success {
   color: #e6eee8 !important;
@@ -280,13 +280,18 @@ h1 {
   border-color: #c3e6cb !important;
 }
 
+.card {
+  border-radius: 25px !important;
+}
+
+
 
 .card-footer {
   color: white;
   font-weight: bold;
+  border-radius: 15px !important;
   font-family: 'Anton', sans-serif;
   background-color: rgb(208 0 39 / 98%) !important;
-  border-top: 6px solid rgb(0 0 0 / 98%) !important;
 }
 
 .tags {
@@ -322,6 +327,11 @@ h1 {
 
 .dev-des {
   font-family: 'Secular One', sans-serif;
+}
+
+.visandmis {
+  font-family: 'Righteous', cursive;
+  font-size: 25px;
 }
 
 
@@ -396,7 +406,7 @@ h1 {
   
   .para2 {
     font-family: monospace;
-    color: #e60000c4;
+    color: #d4cbcbc4;
 }
 
 
