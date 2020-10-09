@@ -23,7 +23,7 @@ class App extends Component {
               <hr className="my-2" />
               <h1 className="dev-des">
               <Typical
-                steps={['Development and Design', 1000, 'Mobile-1st - Responsive Design', 500, 'Conceptual Photography', 1000]}
+                steps={['Development and Design', 1000, 'Mobile-1st - Responsive Designg', 500, 'Conceptual Photography', 1000]}
                 loop={Infinity}
                 wrapper="p"
               />

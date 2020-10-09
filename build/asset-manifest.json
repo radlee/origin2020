@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/origin2020/static/css/main.af9659f8.chunk.css",
-    "main.js": "/origin2020/static/js/main.20918a88.chunk.js",
-    "main.js.map": "/origin2020/static/js/main.20918a88.chunk.js.map",
+    "main.css": "/origin2020/static/css/main.94c4f9e3.chunk.css",
+    "main.js": "/origin2020/static/js/main.f0633fc6.chunk.js",
+    "main.js.map": "/origin2020/static/js/main.f0633fc6.chunk.js.map",
     "runtime-main.js": "/origin2020/static/js/runtime-main.44962f22.js",
     "runtime-main.js.map": "/origin2020/static/js/runtime-main.44962f22.js.map",
     "static/css/2.af3c1da9.chunk.css": "/origin2020/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.a58a7398.chunk.js": "/origin2020/static/js/2.a58a7398.chunk.js",
-    "static/js/2.a58a7398.chunk.js.map": "/origin2020/static/js/2.a58a7398.chunk.js.map",
+    "static/js/2.0849902c.chunk.js": "/origin2020/static/js/2.0849902c.chunk.js",
+    "static/js/2.0849902c.chunk.js.map": "/origin2020/static/js/2.0849902c.chunk.js.map",
     "index.html": "/origin2020/index.html",
-    "precache-manifest.e5fe8b83b31db83ab3333a88a0591c08.js": "/origin2020/precache-manifest.e5fe8b83b31db83ab3333a88a0591c08.js",
+    "precache-manifest.fe4232e345759a9451f6165ad9008687.js": "/origin2020/precache-manifest.fe4232e345759a9451f6165ad9008687.js",
     "service-worker.js": "/origin2020/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/origin2020/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.af9659f8.chunk.css.map": "/origin2020/static/css/main.af9659f8.chunk.css.map",
-    "static/js/2.a58a7398.chunk.js.LICENSE.txt": "/origin2020/static/js/2.a58a7398.chunk.js.LICENSE.txt",
+    "static/css/main.94c4f9e3.chunk.css.map": "/origin2020/static/css/main.94c4f9e3.chunk.css.map",
+    "static/js/2.0849902c.chunk.js.LICENSE.txt": "/origin2020/static/js/2.0849902c.chunk.js.LICENSE.txt",
     "static/media/App.css": "/origin2020/static/media/inno.fc0a33a2.jpg",
     "static/media/circles.png": "/origin2020/static/media/circles.7eac8c20.png",
     "static/media/coding.jpg": "/origin2020/static/media/coding.2efb6a6d.jpg",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.44962f22.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.a58a7398.chunk.js",
-    "static/css/main.af9659f8.chunk.css",
-    "static/js/main.20918a88.chunk.js"
+    "static/js/2.0849902c.chunk.js",
+    "static/css/main.94c4f9e3.chunk.css",
+    "static/js/main.f0633fc6.chunk.js"
   ]
 }
