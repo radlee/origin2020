@@ -10,6 +10,8 @@ import './App.css';
 import Navigation from "./components/Navigation"
 import { Jumbotron, Button, Container, Row, Col } from 'reactstrap';
 
+import Typical from 'react-typical'
+
 class App extends Component {
   render() {
     return (
@@ -19,10 +21,19 @@ class App extends Component {
               <h1 className="display-3">OR<span className="ig">IG</span>IN<span className="ig">2020</span></h1>
               <p className="lead"><span className="green">COLLABORATION</span> | <span className="orange">COMMUNITY</span> | <span className="blue">INNOVATION</span> | <span class="style">STYLED</span>  | <span class="style">CULTURED</span> | <span class="style">SOPHISTICATED</span> </p>
               <hr className="my-2" />
+              <h1 className="dev-des">
+              <Typical
+                steps={['Development and Design', 1000, 'Mobile-1st - Responsive Design', 500, 'Conceptual Photography', 1000]}
+                loop={Infinity}
+                wrapper="p"
+              />
+              </h1>
+              <hr className="my-2" />
               <p className="para2">Solving Problems. Using Design Thinking Processes to achive our Goals. <em>Every Project is Special.</em></p>
               <p className="para">The prime matter of fact is <em>Rad User Interaction </em>. The second, <em>Delivery of Great User Experience,</em> and what we do best, <em>Origin8</em>.</p>
               <br />
               <hr className="my-2" />
+              <p className="lead-two"><span className="tags">COLLABORATION</span> | <span className="tags">COMMUNITY</span> | <span className="tags">INNOVATION</span> | <span class="style">STYLED</span>  | <span class="style">CULTURED</span> | <span class="style">SOPHISTICATED</span> </p>
               <Container>
               <Row>
                 <Col sm="4"></Col>

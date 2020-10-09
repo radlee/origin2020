@@ -6,7 +6,7 @@ export default class Notice extends Component {
     return (
 
         <Container id="objectives">
-            <h1 className="h1">About </h1>
+            <h1 className="h1-custom">About </h1>
             <hr className="heading-horizon" />
             <br />
             <br />

@@ -9,7 +9,7 @@ const Sponsors = (props) => {
     return (
         <div id="orgs" className="container">
             <br />
-            <h1 className="h1">Organizations</h1>
+            <h1 className="h1-custom">Organizations</h1>
             <hr className="heading-horizon" />
             <br />
             <Container>

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/origin2020/static/css/main.b0676438.chunk.css",
+    "main.css": "/origin2020/static/css/main.af9659f8.chunk.css",
     "main.js": "/origin2020/static/js/main.20918a88.chunk.js",
     "main.js.map": "/origin2020/static/js/main.20918a88.chunk.js.map",
     "runtime-main.js": "/origin2020/static/js/runtime-main.44962f22.js",
@@ -9,10 +9,10 @@
     "static/js/2.a58a7398.chunk.js": "/origin2020/static/js/2.a58a7398.chunk.js",
     "static/js/2.a58a7398.chunk.js.map": "/origin2020/static/js/2.a58a7398.chunk.js.map",
     "index.html": "/origin2020/index.html",
-    "precache-manifest.e824ec4db2c836f7ae2b2ea6f89f1400.js": "/origin2020/precache-manifest.e824ec4db2c836f7ae2b2ea6f89f1400.js",
+    "precache-manifest.e5fe8b83b31db83ab3333a88a0591c08.js": "/origin2020/precache-manifest.e5fe8b83b31db83ab3333a88a0591c08.js",
     "service-worker.js": "/origin2020/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/origin2020/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.b0676438.chunk.css.map": "/origin2020/static/css/main.b0676438.chunk.css.map",
+    "static/css/main.af9659f8.chunk.css.map": "/origin2020/static/css/main.af9659f8.chunk.css.map",
     "static/js/2.a58a7398.chunk.js.LICENSE.txt": "/origin2020/static/js/2.a58a7398.chunk.js.LICENSE.txt",
     "static/media/App.css": "/origin2020/static/media/inno.fc0a33a2.jpg",
     "static/media/circles.png": "/origin2020/static/media/circles.7eac8c20.png",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.44962f22.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.a58a7398.chunk.js",
-    "static/css/main.b0676438.chunk.css",
+    "static/css/main.af9659f8.chunk.css",
     "static/js/main.20918a88.chunk.js"
   ]
 }

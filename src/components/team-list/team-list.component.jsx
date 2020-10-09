@@ -11,7 +11,7 @@ const TeamList = (props) => {
         
         <div id="services" className="container">
             <br />
-            <h1 data-aos="fade-up" data-aos-duration="4000" className="h1">Other-Projects</h1>
+            <h1 data-aos="fade-up" data-aos-duration="4000" className="h1-custom">Other-Projects</h1>
             <hr className="heading-horizon" />
             <br />
             <ListGroup className="team" flush>
