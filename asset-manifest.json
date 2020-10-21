@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/origin2020/static/css/main.76cbd7bf.chunk.css",
-    "main.js": "/origin2020/static/js/main.b0e04711.chunk.js",
-    "main.js.map": "/origin2020/static/js/main.b0e04711.chunk.js.map",
+    "main.css": "/origin2020/static/css/main.c09f6bef.chunk.css",
+    "main.js": "/origin2020/static/js/main.7098d520.chunk.js",
+    "main.js.map": "/origin2020/static/js/main.7098d520.chunk.js.map",
     "runtime-main.js": "/origin2020/static/js/runtime-main.44962f22.js",
     "runtime-main.js.map": "/origin2020/static/js/runtime-main.44962f22.js.map",
     "static/css/2.af3c1da9.chunk.css": "/origin2020/static/css/2.af3c1da9.chunk.css",
     "static/js/2.0849902c.chunk.js": "/origin2020/static/js/2.0849902c.chunk.js",
     "static/js/2.0849902c.chunk.js.map": "/origin2020/static/js/2.0849902c.chunk.js.map",
     "index.html": "/origin2020/index.html",
-    "precache-manifest.e0859c61baab3b4e77409a65ded24a03.js": "/origin2020/precache-manifest.e0859c61baab3b4e77409a65ded24a03.js",
+    "precache-manifest.4adfab32c0716c3a78959814d5201668.js": "/origin2020/precache-manifest.4adfab32c0716c3a78959814d5201668.js",
     "service-worker.js": "/origin2020/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/origin2020/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.76cbd7bf.chunk.css.map": "/origin2020/static/css/main.76cbd7bf.chunk.css.map",
+    "static/css/main.c09f6bef.chunk.css.map": "/origin2020/static/css/main.c09f6bef.chunk.css.map",
     "static/js/2.0849902c.chunk.js.LICENSE.txt": "/origin2020/static/js/2.0849902c.chunk.js.LICENSE.txt",
+    "static/media/amp.png": "/origin2020/static/media/amp.ef6c0679.png",
     "static/media/App.css": "/origin2020/static/media/inno.fc0a33a2.jpg",
     "static/media/circles.png": "/origin2020/static/media/circles.7eac8c20.png",
     "static/media/coding.jpg": "/origin2020/static/media/coding.2efb6a6d.jpg",
     "static/media/covid.jpg": "/origin2020/static/media/covid.d631ce29.jpg",
     "static/media/happy-hour.png": "/origin2020/static/media/happy-hour.4c253aa3.png",
-    "static/media/mp.jpg": "/origin2020/static/media/mp.9864abd0.jpg",
     "static/media/origin.jpg": "/origin2020/static/media/origin.90d6a5cd.jpg",
     "static/media/sinekamva.png": "/origin2020/static/media/sinekamva.2a236e47.png"
   },
@@ -27,7 +27,7 @@
     "static/js/runtime-main.44962f22.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.0849902c.chunk.js",
-    "static/css/main.76cbd7bf.chunk.css",
-    "static/js/main.b0e04711.chunk.js"
+    "static/css/main.c09f6bef.chunk.css",
+    "static/js/main.7098d520.chunk.js"
   ]
 }
