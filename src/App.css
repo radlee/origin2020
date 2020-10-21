@@ -73,7 +73,7 @@ html {
   background-color: #cb0926 !important;
 }
 .navbar {
-  position: fixed;
+  position: relative;
   display: flex;
   background-color: #e90c0cc4;
   flex-wrap: wrap;
@@ -458,6 +458,14 @@ h1 {
   .para2 {
     font-family: monospace;
     color: #d4cbcbc4;
+}
+
+body {
+  background-image: url("./bg3.jpg");
+  background-size: 1000%;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-attachment: fixed;
 }
 
 
