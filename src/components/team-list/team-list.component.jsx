@@ -1,7 +1,7 @@
 import React from 'react';
 import { ListGroup, ListGroupItem, Alert, Media, Container, Row, Col, } from 'reactstrap';
 import origin from '../../media/origin.jpg';
-import mp from '../../media/mp.jpg';
+import mp from '../../media/amp.png';
 import coding from '../../media/coding.jpg';
 import covid from '../../media/covid.jpg';
 
@@ -62,8 +62,8 @@ const TeamList = (props) => {
                                             Aselmo Mafanga Photography
                                         </Media>
                                         <h5><em>"Passionate Hobbyist Photographer"</em></h5>
-                                        Friendly Photographer always  available for photoshoot or videography.
-                                        Visit <a href="https://radlee.github.io/amp/">AMP</a> Website for more informantion.
+                                        Friendly, creative and attentive photographer. Find out more about the work on the portfolio website.
+                                        Visit <a href="https://radlee.github.io/amp/">AMP</a> for more informantion.
                                     </Media>
                                 </div>
                             </Col>
@@ -89,8 +89,8 @@ const TeamList = (props) => {
                                         <Media className="media-heading" heading>
                                             Responsive Design | W.O.T | I.O.T | Design Thinking
                                         </Media>
-                                        <h5><em>"The Idea of using the Internet with Things is Fascinating."</em></h5>
-                                        Android Based Applications. Transform the way we use Smartphones.
+                                        <h5><em>"Interacting with actual 'Things' through the internet"</em></h5>
+                                        From the web to Nodebots. Transform the way we use Smartphones.
                                         <p>The best way to encapsulate ORIGIN2020's interests is <a href="#https://radlee.github.io/wot/">Tech & Innovation</a>.</p>
                                     </Media>
                                 </div>
@@ -117,9 +117,9 @@ const TeamList = (props) => {
                                         <Media className="media-heading" heading>
                                             Web Development and Mentoring
                                         </Media>
-                                        <h5>Using the latest Technology tools</h5>
-                                        Among the many great leaning platforms out there, we focus on 2 great leaning platforms we know will make you like programming;
-                                        If you like music, you will like <a href="https://sonic-pi.net/" target="__blank">Sonic Pi</a> and if you like telling a computer what to do for you then <a href="https://codecademy.org/" target="__blank">Codecademy</a> will set you up straight to it.
+                                        <h5>Introduction to programming</h5>
+                                        <p>Teaching and Mentoring High School learners the basics of programming and the crux of problem solving.</p>
+                                        <p>Learning by doing. The best and the fast way to become a good programmer is to constantly practice and writing code by yourself.</p>
                                     </Media>
                                 </div>
                             </Col>

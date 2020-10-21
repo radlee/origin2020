@@ -22,10 +22,10 @@ const Sponsors = (props) => {
                                     <CardTitle>Constantly refining Technological skills to build Enterprise Web Applications </CardTitle>
                                    
                                     <CardText>
-                                        Check out the link below for example of Organisation website you can get out of ORIGIN2020 Development
+                                        Check out the links below for Organisation website Developed by ORIGIN2020
                                     </CardText>
                                 </CardBody>
-                                <CardFooter> Example: <a target="__blank" href="https://radlee.github.io/happyhour/"> <span className="hhf" >Happy Hour Foundation Website</span></a></CardFooter>
+                                <CardFooter className="middleclass"> Example: <a target="__blank" href="https://radlee.github.io/happyhour/"> <span className="hhf" >Happy Hour Foundation Website</span></a></CardFooter>
                                 <CardText>
                                         Check out Aselmo-Mafanga-Photography website below for more content.
                                 </CardText>
@@ -40,7 +40,7 @@ const Sponsors = (props) => {
                                 <ListGroupItem className="list-g">
                                     <Media>
                                         <Media className="profile-pic" left>
-                                            <Media className="Media" object src={hh} height="124px" alt="Sponsor Photo" />
+                                            <Media className="Media" object src={hh} height="70px" alt="Sponsor Photo" />
                                         </Media>
                                         <Media body>
                                             <Media className="media-heading" heading>
@@ -56,7 +56,7 @@ const Sponsors = (props) => {
                             <ListGroupItem className="list-g">
                                 <Media>
                                     <Media className="profile-pic" left>
-                                        <Media className="Media" object src={sf} height="124px" alt="Sponsor Photo" />
+                                        <Media className="Media" object src={sf} height="70px" alt="Sponsor Photo" />
                                     </Media>
                                     <Media body>
                                         <Media className="media-heading" heading>
